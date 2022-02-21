@@ -22,6 +22,7 @@ My name is Katarzyna Górna. I am production management engineer and recently I 
 # Courses
   - Coders Lab Sp. z o. o. - 12/2021  Tester Manualny
   - Coders Lab Sp. z o. o. - 11/2021  Podstawy HTML i CSS
+  - Udemy - 02/2022 Postman od podstaw - testowanie REST API
   - Udemy - 02/2022 Praktyczny kurs testowania oprogramowania
   - Udemy - 01/2022 Testowanie produktów cyfrowych
   - Udemy - 01/2022 Zostań QA lub testerem oprogramowania od zera
