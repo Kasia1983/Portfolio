@@ -18,7 +18,7 @@ My name is Katarzyna Górna. I am production management engineer and recently I 
   -  Basics HTML, CSS 
   -  Basics WordPress
 # Certificates
-  - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 17350
+  - [ISTQB]- No. 17350
 # Courses
   - Coders Lab Sp. z o. o. - 12/2021  Tester Manualny
   - Coders Lab Sp. z o. o. - 11/2021  Podstawy HTML i CSS
